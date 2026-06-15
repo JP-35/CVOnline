@@ -85,3 +85,10 @@ footer{
     background:#161b22;
 }
 
+#contacto{
+    text-align:center;
+}
+
+#contacto .btn{
+    margin-top:20px;
+}
